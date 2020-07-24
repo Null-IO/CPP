@@ -1,0 +1,13 @@
+template <class T>
+class Ic
+{
+private:
+	T v;
+	...
+public:
+	Ic(const T & val) : v(val) { }
+	...
+};
+
+class Ic<short> sic; // implicit instantiation
+template class IC<int>; // explicit instantiation
