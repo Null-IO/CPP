@@ -1,3 +1,4 @@
+//Takes about 2min to finish!
 #include <iostream>
 #include <thread>
 #include <random>
