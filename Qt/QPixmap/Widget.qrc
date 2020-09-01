@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Widget">
+        <file>dwight.jpg</file>
+    </qresource>
+</RCC>
